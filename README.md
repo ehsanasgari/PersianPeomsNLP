@@ -1,6 +1,6 @@
 # Natural Language Processing Papers on Persian Poems
 
-A curated list of publications on computational work on Persian poems
+A curated list of publications on computational work for Persian poems
 
 
 - **2013-06** |  Linguistic Resources and Topic Models for the Analysis of Persian Poems | *Ehsaneddin Asgari, Jean-Cedric Chappelier* [ NAACL-HLT Workshop on Computational Linguistics for Literature ](http://www.anthology.aclweb.org/W/W13/W13-1404.pdf)
