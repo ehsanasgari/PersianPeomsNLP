@@ -33,3 +33,4 @@ Here is a curated list of publications on computational work for Persian poems. 
           year={2016},
           organization={Association for Computational Linguistics}
         }
+![poem](https://cloud.githubusercontent.com/assets/8551117/17010367/0651b9aa-4eb8-11e6-89af-790674599d3d.png) 
